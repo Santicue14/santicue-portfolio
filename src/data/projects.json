@@ -1,0 +1,26 @@
+[
+    {
+        "id": "p-002",
+        "name": "Social media Dashboard Project",
+        "link": "https://socialdashboardbysanticue.netlify.app/",
+        "github": "https://github.com/Santicue14/SocialMediaDashboard",
+        "preview": "socialmedia",
+        "description": "It was made with React and Tailwind CSS, it has the function to toggle the dark mode and it's responsive."
+    },
+    {
+        "id": "p-003",
+        "name": "Example Notifications page",
+        "link": "https://notifications-example-page-bysanticue.netlify.app/",
+        "github": "https://github.com/Santicue14/notificationsPage",
+        "preview": "notifications",
+        "description": "Simple page for any social media app, with the action and counter to read notifications, made with HTML, CSS and Javascript and it's responsive"
+    },
+    {
+        "id": "p-004",
+        "name": "Responsive Card Form",
+        "link": "https://responsive-card-responsive-santicue14.netlify.app/",
+        "github": "https://github.com/Santicue14/responsive-card-form",
+        "preview": "card",
+        "description": "Responsive form card made with React and TailwindCSS"
+    }
+]
